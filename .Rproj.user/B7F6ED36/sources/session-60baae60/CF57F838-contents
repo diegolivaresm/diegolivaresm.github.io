@@ -1,0 +1,35 @@
+---
+title: "Experience"
+---
+
+## Education
+
+::: {.grid}
+::: {.g-col-12}
+**DPhil in Information, Communication and Social Sciences** · *in progress*
+Oxford Internet Institute, University of Oxford
+Clarendon Scholar, Keble College
+
+**MA in Sociology**
+*(institution, year)*
+
+**BA in Sociology**
+*(institution, year)*
+:::
+:::
+
+## Awards
+
+- **Clarendon Scholarship**, University of Oxford
+- *(add other awards, grants, or fellowships here)*
+
+## Conferences
+
+- *(Author).* "Talk title." **Conference name**, location, year.
+- *(add invited talks, panels, and conference papers here)*
+
+<!--
+Tip: keep this page in plain Markdown for now. Later, if you want it to
+update automatically from a spreadsheet, the same data can feed both this
+page and your `vitae` CV.
+-->

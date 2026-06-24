@@ -1,0 +1,34 @@
+---
+title: "Curriculum Vitae"
+---
+
+[{{< fa file-pdf >}} Descargar CV en PDF](assets/cv.pdf){.btn .btn-primary}
+
+<!--
+Coloca tu CV como assets/cv.pdf y se podrá descargar con el botón de arriba.
+El bloque siguiente lo incrusta visible en la página. Si prefieres solo el
+botón de descarga, borra el <iframe>.
+-->
+
+<iframe src="assets/cv.pdf" width="100%" height="800px" style="border: 1px solid #ddd; border-radius: 8px;">
+Tu navegador no puede mostrar PDFs incrustados.
+<a href="assets/cv.pdf">Descarga el CV aquí</a>.
+</iframe>
+
+---
+
+## Resumen
+
+Si prefieres mantener una versión en texto (más accesible y mejor para SEO),
+puedes escribirla directamente aquí en Markdown:
+
+### Educación
+- **DPhil in Information, Communication and Social Sciences** — Oxford Internet Institute, University of Oxford (en curso)
+
+### Experiencia
+- Investigador, Millennium Nucleus M-NEW
+- Coordinador de encuesta Chile, proyecto Platformuse (ERC)
+- Asistente de investigación (Billboard rankings), Prof. Daniel Party
+
+### Idiomas
+- Español (nativo), Inglés

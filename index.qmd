@@ -1,0 +1,38 @@
+---
+title: "Diego Oivares"
+subtitle: "Researcher · DPhil candidate, Oxford Internet Institute"
+about:
+  template: broadside      # options: jolla, trestles, solana, marquee, broadside
+  image: assets/profile.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/diegolivaresm
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0008-4754-5442
+    - text: "{{< iconify academicons dataverse >}} Dataverse"
+      href: https://dataverse.harvard.edu/dataverse/diego_olivares
+    - icon: envelope
+      text: Email
+      href: "mailto:mailto:diego.olivares@alumni.uc.cl"
+    - icon: linkedin
+      href: https://www.linkedin.com/in/diego-olivares-009ab22b0/
+      aria-label: LinkedIn
+---
+
+I am a chilean sociologist, currently a DPhil student in the "Information, Communication
+and Social Sciences" programme at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/),
+University of Oxford. I am a Clarendon Scholar, and a member of Keble College. 
+
+My research sits at the intersection of digital sociology and music studies, applying quantitative
+and mixed methods to examine the impact of new technologies on the music industry and musician's
+labour. I have worked as a research assitant on several projects concerning the impact of new 
+technologies in labour, and studies of popular music
+
+## Research interests
+
+- Labour in the Cultural Industries under Platformization
+- Popular music studies 
+- Impact of new technologies in labour
+- Quantitave approaches to the Sociology of Art

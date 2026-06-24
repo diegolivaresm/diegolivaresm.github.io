@@ -1,0 +1,9 @@
+/.quarto/
+/docs/
+*_files/
+.Rproc.out
+.Rhistory
+.RData
+.DS_Store
+
+**/*.quarto_ipynb

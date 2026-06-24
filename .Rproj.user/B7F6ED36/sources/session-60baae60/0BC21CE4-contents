@@ -1,0 +1,27 @@
+---
+title: "Publications"
+filters:
+  - multibib
+validate-yaml: false
+bibliography:
+  papers: bib/papers.bib
+  reports: bib/reports.bib
+  databases: bib/databases.bib
+csl: apa.csl
+nocite: '@*'
+---
+
+## Papers
+
+::: {#refs-papers}
+:::
+
+## Reports
+
+::: {#refs-reports}
+:::
+
+## Databases
+
+::: {#refs-databases}
+:::
